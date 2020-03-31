@@ -6,8 +6,17 @@ Documentation for esys.escript
 Contents:
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 4
 
+   esys.downunder
+   esys.dudley
+   esys.escript
+   esys.finley
+   esys.modellib
+   esys.pycad
+   esys.ripley
+   esys.speckley
+   esys.weipa
 
 Indices and Tables
 ==================
