@@ -16,7 +16,6 @@ Classes
 * `PolePoleSurvey`
 * `SchlumbergerSurvey`
 * `WennerSurvey`
-* `xrange`
 
 .. autoclass:: esys.downunder.dcresistivityforwardmodeling.DcResistivityForward
    :members:
@@ -61,12 +60,6 @@ Classes
    .. automethod:: __init__
 
 .. autoclass:: esys.downunder.dcresistivityforwardmodeling.WennerSurvey
-   :members:
-   :undoc-members:
-
-   .. automethod:: __init__
-
-.. autoclass:: esys.downunder.dcresistivityforwardmodeling.xrange
    :members:
    :undoc-members:
 

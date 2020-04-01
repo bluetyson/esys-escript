@@ -6,7 +6,7 @@ Documentation for esys.escript
 Contents:
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 4
 
 
 Indices and Tables

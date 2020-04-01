@@ -332,6 +332,7 @@ Others
 * DBLE_MAX
 * EPSILON
 * HAVE_SYMBOLS
+* x
 
 Packages
 --------

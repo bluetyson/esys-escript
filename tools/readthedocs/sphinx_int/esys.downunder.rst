@@ -52,7 +52,6 @@ Classes
 * `MinimizerLBFGS`
 * `MinimizerMaxIterReached`
 * `MinimizerNLCG`
-* `NetCdfData`
 * `NumpyData`
 * `PoleDipoleSurvey`
 * `PolePoleSurvey`
@@ -80,7 +79,6 @@ Classes
 * `VTIWave`
 * `WaveBase`
 * `WennerSurvey`
-* `xrange`
 
 .. autoclass:: esys.downunder.AbstractMinimizer
    :members:
@@ -346,12 +344,6 @@ Classes
 
    .. automethod:: __init__
 
-.. autoclass:: esys.downunder.NetCdfData
-   :members:
-   :undoc-members:
-
-   .. automethod:: __init__
-
 .. autoclass:: esys.downunder.NumpyData
    :members:
    :undoc-members:
@@ -509,12 +501,6 @@ Classes
    .. automethod:: __init__
 
 .. autoclass:: esys.downunder.WennerSurvey
-   :members:
-   :undoc-members:
-
-   .. automethod:: __init__
-
-.. autoclass:: esys.downunder.xrange
    :members:
    :undoc-members:
 
