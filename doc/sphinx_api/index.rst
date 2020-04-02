@@ -6,8 +6,19 @@ Documentation for esys.escript
 Contents:
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 5
 
+   ...
+
+.. autoclass::
+   esys/downunder
+   esys/dudley
+   esys/finley
+   esys/ripley
+   esys/speckley
+   esys/weipa
+
+   ...
 
 Indices and Tables
 ==================
